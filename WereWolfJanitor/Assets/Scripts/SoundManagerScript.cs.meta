@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa7931f61967acc4fa54f9d8e6d90d8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FlourescentLight: {fileID: 8300000, guid: 6c06d9345ea1b7d4f8647a6ed53715c2, type: 3}
+  - MonsterMovement: {fileID: 8300000, guid: 272a377b065c0b04fb193e2ba7dc0f3c, type: 3}
+  - PlayerDeath: {fileID: 8300000, guid: 01b2f2919b8ba72429ade3848f304f64, type: 3}
+  - SootMain: {fileID: 8300000, guid: b31e60304ba1010468e68feb88038eb1, type: 3}
+  - SootTitleScreen: {fileID: 8300000, guid: e6d7ae62720b7d84fa81aa3724518f6b, type: 3}
+  - Switch: {fileID: 8300000, guid: 61057fa97bf6840438e4290d5836da63, type: 3}
+  - WallCrumbling: {fileID: 8300000, guid: a59ce1074e4e55b48a7957a04d7057af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
